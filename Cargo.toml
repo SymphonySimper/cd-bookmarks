@@ -6,6 +6,7 @@ edition = "2024"
 [dependencies]
 directories = "6.0.0"
 regex = "1.12.3"
+rkyv = "0.8.16"
 
 [profile.release]
 opt-level = 3
